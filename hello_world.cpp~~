@@ -4,6 +4,10 @@
 int main()
 {
     printf("Hello World");
+<<<<<<< HEAD
+Chaning the whole masters
+=======
 	Just received the older file. This looks like that it is now working on one branch.
+>>>>>>> Testing_another_branch
     return 0;
 }
