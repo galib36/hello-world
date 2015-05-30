@@ -4,7 +4,10 @@
 int main()
 {
     printf("Hello World");
+<<<<<<< HEAD
 	Now trying with the gitk in the masters
+=======
 	Just received the older file. This looks like that it is now working on one branch.
+>>>>>>> 5c0b266947f917614aed9ccf52664132e5c09d23
     return 0;
 }
